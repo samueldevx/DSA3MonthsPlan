@@ -1,4 +1,4 @@
-# 3-Month Data Structures and Algorithms Mastery Plan
+# 3 Month Data Structures and Algorithms Mastery Plan
 
 This repository contains a detailed 3-month study plan to master data structures and algorithms. The plan utilizes two primary resources:
 1. **Book:** "Introduction to Algorithms" by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein.
